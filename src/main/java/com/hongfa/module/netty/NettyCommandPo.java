@@ -1,4 +1,4 @@
-package com.hongfa.common.module;
+package com.hongfa.module.netty;
 
 import com.alibaba.fastjson.JSON;
 

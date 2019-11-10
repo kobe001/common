@@ -1,4 +1,4 @@
-package com.hongfa.common.enums;
+package com.hongfa.module.enums;
 
 /**
  * 彩票游戏种类

@@ -1,4 +1,4 @@
-package com.hongfa.common.module.enums;
+package com.hongfa.module.netty.enums;
 
 public enum RequestType {
 

@@ -1,4 +1,4 @@
-package com.hongfa.common.enums;
+package com.hongfa.module.enums;
 
 /**
  * 公共业务通讯命令

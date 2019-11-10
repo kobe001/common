@@ -1,4 +1,4 @@
-package com.hongfa.common.module.utlis;
+package com.hongfa.module.netty.utlis;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
